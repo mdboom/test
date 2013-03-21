@@ -7,3 +7,7 @@ def test_fail_on_26():
 
 def test_always_pass():
     assert True
+
+
+def test_bad():
+    assert False
